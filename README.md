@@ -38,6 +38,7 @@ My LeetCode coding practice and accepted solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +67,7 @@ My LeetCode coding practice and accepted solutions.
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -96,6 +99,7 @@ My LeetCode coding practice and accepted solutions.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +130,8 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
