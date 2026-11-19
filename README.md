@@ -311,6 +311,7 @@ My LeetCode coding practice and accepted solutions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -354,6 +355,7 @@ My LeetCode coding practice and accepted solutions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -397,6 +399,7 @@ My LeetCode coding practice and accepted solutions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Merge Sort
