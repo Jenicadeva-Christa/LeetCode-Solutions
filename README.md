@@ -26,4 +26,36 @@ My LeetCode coding practice and accepted solutions.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## String
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
