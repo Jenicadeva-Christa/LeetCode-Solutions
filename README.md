@@ -19,6 +19,7 @@ My LeetCode coding practice and accepted solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -181,6 +182,7 @@ My LeetCode coding practice and accepted solutions.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -217,4 +219,8 @@ My LeetCode coding practice and accepted solutions.
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
