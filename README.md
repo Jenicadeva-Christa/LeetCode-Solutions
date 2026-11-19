@@ -17,6 +17,7 @@ My LeetCode coding practice and accepted solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -48,6 +49,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -74,6 +76,7 @@ My LeetCode coding practice and accepted solutions.
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -97,4 +100,8 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
