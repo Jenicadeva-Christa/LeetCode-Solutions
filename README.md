@@ -131,6 +131,7 @@ My LeetCode coding practice and accepted solutions.
 | [0643-maximum-average-subarray-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1652-defuse-the-bomb](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -192,6 +193,7 @@ My LeetCode coding practice and accepted solutions.
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Matrix
 |  |
@@ -234,19 +236,23 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
