@@ -6,12 +6,14 @@ My LeetCode coding practice and accepted solutions.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
@@ -29,6 +31,7 @@ My LeetCode coding practice and accepted solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -199,4 +202,8 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
