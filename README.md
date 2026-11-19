@@ -26,6 +26,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -55,7 +56,6 @@ My LeetCode coding practice and accepted solutions.
 | [0001-two-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0127-word-ladder) |
@@ -175,7 +175,6 @@ My LeetCode coding practice and accepted solutions.
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -184,6 +183,7 @@ My LeetCode coding practice and accepted solutions.
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -319,7 +319,6 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String Matching
 |  |
@@ -416,7 +415,6 @@ My LeetCode coding practice and accepted solutions.
 ## Backtracking
 |  |
 | ------- |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Quicksort
 |  |
@@ -438,12 +436,4 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
-## Algorithm X
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
-## Dancing Links
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
