@@ -126,6 +126,7 @@ My LeetCode coding practice and accepted solutions.
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -186,6 +187,7 @@ My LeetCode coding practice and accepted solutions.
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Matrix
@@ -219,8 +221,25 @@ My LeetCode coding practice and accepted solutions.
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
