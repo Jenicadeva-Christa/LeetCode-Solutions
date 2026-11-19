@@ -174,6 +174,7 @@ My LeetCode coding practice and accepted solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -200,6 +201,7 @@ My LeetCode coding practice and accepted solutions.
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -237,10 +239,12 @@ My LeetCode coding practice and accepted solutions.
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
 |  |
@@ -252,6 +256,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
