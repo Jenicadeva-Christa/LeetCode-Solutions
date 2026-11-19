@@ -67,6 +67,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
@@ -179,6 +180,7 @@ My LeetCode coding practice and accepted solutions.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Matrix
@@ -206,4 +208,8 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
