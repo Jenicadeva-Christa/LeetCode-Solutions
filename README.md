@@ -118,6 +118,7 @@ My LeetCode coding practice and accepted solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -196,6 +197,7 @@ My LeetCode coding practice and accepted solutions.
 | [0088-merge-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0162-find-peak-element) |
