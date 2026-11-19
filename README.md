@@ -26,6 +26,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -168,6 +169,7 @@ My LeetCode coding practice and accepted solutions.
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -197,6 +199,7 @@ My LeetCode coding practice and accepted solutions.
 | [0088-merge-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
