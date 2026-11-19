@@ -81,6 +81,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0127-word-ladder) |
@@ -256,6 +257,7 @@ My LeetCode coding practice and accepted solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -425,4 +427,8 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
