@@ -28,6 +28,7 @@ My LeetCode coding practice and accepted solutions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -58,6 +59,7 @@ My LeetCode coding practice and accepted solutions.
 | [0219-contains-duplicate-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -155,6 +157,7 @@ My LeetCode coding practice and accepted solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -173,6 +176,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -183,6 +187,7 @@ My LeetCode coding practice and accepted solutions.
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
