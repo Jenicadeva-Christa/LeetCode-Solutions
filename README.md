@@ -56,6 +56,7 @@ My LeetCode coding practice and accepted solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ My LeetCode coding practice and accepted solutions.
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Rolling Hash
@@ -170,6 +172,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Matrix
 |  |
 | ------- |
