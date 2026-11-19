@@ -7,6 +7,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -25,6 +26,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +46,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -170,6 +173,7 @@ My LeetCode coding practice and accepted solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -190,6 +194,7 @@ My LeetCode coding practice and accepted solutions.
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
