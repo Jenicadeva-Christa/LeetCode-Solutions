@@ -83,7 +83,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
-| [0006-zigzag-conversion](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
@@ -360,6 +360,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -373,6 +374,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
