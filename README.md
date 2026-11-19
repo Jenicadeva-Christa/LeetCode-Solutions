@@ -212,6 +212,7 @@ My LeetCode coding practice and accepted solutions.
 | [0643-maximum-average-subarray-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1652-defuse-the-bomb](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -336,6 +337,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## String Matching
 |  |
 | ------- |
@@ -387,6 +389,7 @@ My LeetCode coding practice and accepted solutions.
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
