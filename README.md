@@ -70,6 +70,7 @@ My LeetCode coding practice and accepted solutions.
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -126,6 +127,7 @@ My LeetCode coding practice and accepted solutions.
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -191,6 +193,7 @@ My LeetCode coding practice and accepted solutions.
 | [1652-defuse-the-bomb](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
