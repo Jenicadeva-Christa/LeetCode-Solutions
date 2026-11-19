@@ -248,6 +248,7 @@ My LeetCode coding practice and accepted solutions.
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -378,6 +379,7 @@ My LeetCode coding practice and accepted solutions.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
