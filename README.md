@@ -420,6 +420,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
