@@ -82,6 +82,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
@@ -216,6 +217,7 @@ My LeetCode coding practice and accepted solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
@@ -335,6 +337,7 @@ My LeetCode coding practice and accepted solutions.
 ## Manacher
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -368,6 +371,7 @@ My LeetCode coding practice and accepted solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
