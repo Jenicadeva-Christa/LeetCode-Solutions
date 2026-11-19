@@ -186,6 +186,7 @@ My LeetCode coding practice and accepted solutions.
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -438,6 +439,7 @@ My LeetCode coding practice and accepted solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Quicksort
 |  |
@@ -459,4 +461,8 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
