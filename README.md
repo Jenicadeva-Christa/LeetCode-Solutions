@@ -75,6 +75,7 @@ My LeetCode coding practice and accepted solutions.
 | [2537-count-the-number-of-good-subarrays](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3713-longest-balanced-substring-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ My LeetCode coding practice and accepted solutions.
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3713-longest-balanced-substring-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
@@ -203,6 +206,7 @@ My LeetCode coding practice and accepted solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -221,6 +225,7 @@ My LeetCode coding practice and accepted solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -296,7 +301,6 @@ My LeetCode coding practice and accepted solutions.
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
-| [0292-nim-game](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -326,6 +330,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3713-longest-balanced-substring-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,14 +361,12 @@ My LeetCode coding practice and accepted solutions.
 ## Minimax
 |  |
 | ------- |
-| [0292-nim-game](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
-| [0292-nim-game](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -418,16 +421,8 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
-## Brainteaser
+## Enumeration
 |  |
 | ------- |
-| [0292-nim-game](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0292-nim-game) |
-## Nim Game
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0292-nim-game) |
-## Impartial Game
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [3713-longest-balanced-substring-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
