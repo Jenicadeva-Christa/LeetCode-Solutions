@@ -86,6 +86,7 @@ My LeetCode coding practice and accepted solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -143,6 +144,7 @@ My LeetCode coding practice and accepted solutions.
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
