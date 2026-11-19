@@ -26,6 +26,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -55,11 +56,9 @@ My LeetCode coding practice and accepted solutions.
 | [0001-two-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0127-word-ladder) |
-| [0169-majority-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -89,6 +88,7 @@ My LeetCode coding practice and accepted solutions.
 | [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -163,7 +163,6 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
-| [0169-majority-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
@@ -177,7 +176,6 @@ My LeetCode coding practice and accepted solutions.
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -186,8 +184,9 @@ My LeetCode coding practice and accepted solutions.
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0169-majority-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -241,7 +240,7 @@ My LeetCode coding practice and accepted solutions.
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
-| [0169-majority-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -294,6 +293,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -323,7 +323,6 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String Matching
 |  |
@@ -340,7 +339,6 @@ My LeetCode coding practice and accepted solutions.
 ## Counting
 |  |
 | ------- |
-| [0169-majority-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -421,7 +419,6 @@ My LeetCode coding practice and accepted solutions.
 ## Backtracking
 |  |
 | ------- |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Quicksort
 |  |
@@ -443,16 +440,4 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
-## Algorithm X
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
-## Dancing Links
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
