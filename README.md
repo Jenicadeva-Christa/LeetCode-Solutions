@@ -44,6 +44,7 @@ My LeetCode coding practice and accepted solutions.
 | [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -168,6 +169,7 @@ My LeetCode coding practice and accepted solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -203,6 +205,7 @@ My LeetCode coding practice and accepted solutions.
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -251,6 +254,7 @@ My LeetCode coding practice and accepted solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
