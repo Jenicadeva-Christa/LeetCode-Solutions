@@ -51,6 +51,7 @@ My LeetCode coding practice and accepted solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -148,6 +149,7 @@ My LeetCode coding practice and accepted solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
