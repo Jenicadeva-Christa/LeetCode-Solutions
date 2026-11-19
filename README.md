@@ -212,6 +212,7 @@ My LeetCode coding practice and accepted solutions.
 | [0643-maximum-average-subarray-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1140-stone-game-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1288-remove-covered-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1652-defuse-the-bomb](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
@@ -263,6 +264,7 @@ My LeetCode coding practice and accepted solutions.
 | [0506-relative-ranks](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1288-remove-covered-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
