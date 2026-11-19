@@ -25,6 +25,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -148,6 +149,7 @@ My LeetCode coding practice and accepted solutions.
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
