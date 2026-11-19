@@ -29,10 +29,12 @@ My LeetCode coding practice and accepted solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
 |  |
@@ -41,6 +43,7 @@ My LeetCode coding practice and accepted solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
