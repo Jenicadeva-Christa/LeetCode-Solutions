@@ -93,6 +93,7 @@ My LeetCode coding practice and accepted solutions.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -132,6 +133,7 @@ My LeetCode coding practice and accepted solutions.
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0135-candy) |
 | [0670-maximum-swap](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
