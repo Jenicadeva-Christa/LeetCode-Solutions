@@ -167,6 +167,7 @@ My LeetCode coding practice and accepted solutions.
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -203,6 +204,7 @@ My LeetCode coding practice and accepted solutions.
 | ------- |
 | [0016-3sum-closest](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -248,6 +250,7 @@ My LeetCode coding practice and accepted solutions.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
@@ -256,6 +259,7 @@ My LeetCode coding practice and accepted solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -336,6 +340,7 @@ My LeetCode coding practice and accepted solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0466-count-the-repetitions](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
