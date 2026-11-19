@@ -63,6 +63,7 @@ My LeetCode coding practice and accepted solutions.
 | [0264-ugly-number-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -83,6 +84,7 @@ My LeetCode coding practice and accepted solutions.
 | [0214-shortest-palindrome](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0389-find-the-difference](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -99,6 +101,7 @@ My LeetCode coding practice and accepted solutions.
 | [0187-repeated-dna-sequences](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [1763-longest-nice-substring](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -206,6 +209,7 @@ My LeetCode coding practice and accepted solutions.
 | [0217-contains-duplicate](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Jenicadeva-Christa/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
